@@ -34,3 +34,8 @@
                 line-height: 1.2;
                 
                 }
+                h3:hover{
+                    text-align: justify;
+                    background-color: blueviolet;
+                    color: aqua;
+                }
