@@ -8,8 +8,8 @@ p {
     font-size:xx-large;
     text-align: right;
         font-weight: bold;
-        color: aqua;
-
+        color: white;
+background-color: green;
 
 
 }
@@ -26,5 +26,13 @@ background-color: aqua;
 color: blue;
 
 
+
+}
+
+*{ margin: 0%;padding: 0%;
+}
+
+h1{
+    color: aqua;
 
 }
