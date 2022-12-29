@@ -1,0 +1,21 @@
+header{
+    background-color: blue;padding: 50px;
+}
+section{
+    display: flex;
+    background-color: rgb(23, 235, 235);
+}#one{
+    flex:3;
+    background-color: aqua;
+    padding: 200px;
+}#two{
+    flex:1;
+    background-color: rgb(210, 141, 141);
+    padding: 200px;
+}
+body{
+    border: 1px;
+}
+footer{
+    background-color: rgb(49, 107, 107);padding: 200px;
+}
